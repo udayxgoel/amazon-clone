@@ -232,13 +232,13 @@ ul{
 }
 
 ul p{
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-weight: 700;
 }
 
 ul a{
     display: block;
-    font-size: 1rem;
+    font-size: 0.95rem;
     margin-top: 10px;
     color: #dddddd;
 }
