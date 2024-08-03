@@ -7,7 +7,7 @@
 
 ## Introduction
 
-TThis is a clone of the Amazon website, created to enhance my web development skills using HTML and CSS. The project replicates the layout and design of Amazon's homepage.
+This is a clone of the Amazon website, created to enhance my web development skills using HTML and CSS. The project replicates the layout and design of Amazon's homepage.
 
 ## Features
 
