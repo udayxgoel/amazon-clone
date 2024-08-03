@@ -1,6 +1,6 @@
 # Amazon Clone
 
-![Amazon Clone Screenshot](/assets/Screenshot.png)
+![Amazon Clone Screenshot](/assets/Screenshot.jpg)
 
 ## Table of Contents
 
