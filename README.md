@@ -1,7 +1,3 @@
-# Amazon Clone
-
-![Amazon Clone Screenshot](/assets/Screenshot.jpg)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
